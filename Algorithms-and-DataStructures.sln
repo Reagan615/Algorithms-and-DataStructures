@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms-and-DataStructur
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms-and-DataStructures_Lab03", "Algorithms-and-DataStructures_Lab03\Algorithms-and-DataStructures_Lab03.csproj", "{C3097A38-43DA-488B-B4F3-48FCB5EAA6C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms-and-DataStructures_Lab04", "Algorithms-and-DataStructures_Lab04\Algorithms-and-DataStructures_Lab04.csproj", "{FD051F83-CAC6-466D-9C6D-2BC064C382D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms-and-DataStructures_Lab04", "Algorithms-and-DataStructures_Lab04\Algorithms-and-DataStructures_Lab04.csproj", "{FD051F83-CAC6-466D-9C6D-2BC064C382D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms-and-Data-Structures_Lab05", "Algorithms-and-Data-Structures_Lab05\Algorithms-and-Data-Structures_Lab05.csproj", "{51E647BF-BD1D-4D40-B54A-3F672499129B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FD051F83-CAC6-466D-9C6D-2BC064C382D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD051F83-CAC6-466D-9C6D-2BC064C382D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD051F83-CAC6-466D-9C6D-2BC064C382D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E647BF-BD1D-4D40-B54A-3F672499129B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E647BF-BD1D-4D40-B54A-3F672499129B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E647BF-BD1D-4D40-B54A-3F672499129B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E647BF-BD1D-4D40-B54A-3F672499129B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
